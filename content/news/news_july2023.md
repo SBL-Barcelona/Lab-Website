@@ -3,7 +3,7 @@ title: News
 type: news
 sidebar: false
 sidebarlogo: fresh-white-alt
-image: images/news/announcement.png
+image: images/news/twobrains.png
 date: 2022-10-27
 ---
 
