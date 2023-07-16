@@ -3,7 +3,7 @@ title: Team
 type: member
 sidebar: false
 sidebarlogo: fresh-white-alt
-image: images/team/lorena.png
+image: images/team/empty.png
 position: 3
 ---
 
