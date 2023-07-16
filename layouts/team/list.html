@@ -16,7 +16,8 @@
 	{{ range where (.Site.RegularPages.ByParam "position") "Params.type" "member" }}
         <br>
         <div class="columns">
-	  <div class="column is-6" style="width:30%">
+	  <div class="column is-6" style="width:40%">
+      <!-- style="width:30%" -->
  	    <img src="{{ printf "/%s" .Params.image }}" alt="Image" class="section-image">
 	  </div>
  	  <div class="column is-6">
