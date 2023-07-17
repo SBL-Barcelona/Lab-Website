@@ -1,7 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
 title: Social Brain Lab Barcelona
-description: ""
 
 module:
   # uncomment line below for local development of module
