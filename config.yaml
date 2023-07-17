@@ -68,7 +68,7 @@ params:
     # Button text
     buttontext: We are hiring!
     # Where the main hero button links to
-    buttonlink: "/blog/joinus"
+    buttonlink: /joinus
     # Hero image (from static/images/___)
     image: illustrations/twobrains.png
     # Footer logos (from static/images/logos/clients/*.svg)
