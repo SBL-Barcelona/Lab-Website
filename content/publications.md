@@ -7,7 +7,7 @@ include_footer: true
 
 ## Pre-prints
 
-**Pretus C.,** Javeed A., Hughes D.R., Hackburg K., Tsakiris M., Vilarroya O., Van Bavel J. ([under review](https://psyarxiv.com/7j26y/)). The *Misleading* count: An identity-based intervention to mitigate the spread of partisan misinformation. 
+**Pretus C.,** Javeed A., Hughes D.R., Hackburg K., Tsakiris M., Vilarroya O., Van Bavel J. ([in press](https://psyarxiv.com/7j26y/)). The *Misleading* count: An identity-based intervention to mitigate the spread of partisan misinformation. *Philosophical Transactions B.*
 
 ## 2023
 
