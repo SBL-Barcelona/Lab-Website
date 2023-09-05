@@ -26,4 +26,7 @@ As a student in our lab, you will work alongside experienced researchers, gainin
 
 ### Postdoctral positions
 
-1 postdoctoral position in Computational Social Science working on extremist narratives online (upcoming)
+1 postdoctoral position in Computational Modelling working on moral psychology of AI (Deadline: Open till filled)
+<br>
+[Read more](https://www.imim.cat/ofertes/detall-oferta-temporals.html?id=2384)
+<br>
