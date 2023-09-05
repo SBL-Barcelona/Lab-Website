@@ -26,5 +26,5 @@ As a student in our lab, you will work alongside experienced researchers, gainin
 
 1 postdoctoral position in Computational Modelling working on Moral Psychology of AI (Deadline: Open till filled)
 <br>
-[Read more](https://www.imim.cat/ofertes/detall-oferta-temporals.html?id=2384)
+[Read more](https://www.imim.cat/ofertes/en_detall-oferta-temporals.html?id=2384)
 <br>
