@@ -5,9 +5,9 @@ sidebarlogo: fresh-white-alt
 include_footer: true
 ---
 
-Our lab offers a unique opportunity to contribute to cutting-edge research in the fields of cognitive neuroscience and experimental psychology. We investigate the psychological and neural underpinnings of moral deicison-making and extremist behavior and explore the spread of misinformation online.
+Our lab offers a unique opportunity to contribute to cutting-edge research in the fields of cognitive neuroscience and experimental psychology. We investigate the psychological and neural underpinnings of moral decision-making and extremist attitudes and explore the spread of misinformation online.
 
-As a student in our lab, you will work alongside experienced researchers, gaining hands-on experience with advanced methodologies such as fMRI and EEG. You will actively contribute to experiments, data analysis, and publications. Our collaborative and intellectually stimulating environment provides the ideal setting to study and address pressing societal issues.
+As a student in our lab, you will work alongside experienced researchers, gaining hands-on experience with advanced methods such as fMRI and EEG. You will actively contribute to experiments, data analysis, and publications. Our collaborative and intellectually stimulating environment provides the ideal setting to study and help address pressing societal issues.
 
 ## Open positions
 
