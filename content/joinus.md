@@ -15,7 +15,7 @@ As a student in our lab, you will work alongside experienced researchers, gainin
 
 1 research assistant position to support Cognitive Neuroscience experiments - in person (Deadline: September 25, 2023) 
 <br>
-[Read more](https://file.notion.so/f/f/4c4ef526-3c83-41c0-ba86-99713d22ae63/3989f0ca-5081-4b76-9006-5f306a357b4b/Tecnic-_PRETUS_2.pdf?id=26f72f9d-63e0-48b3-ab2a-972277086b35&table=block&spaceId=4c4ef526-3c83-41c0-ba86-99713d22ae63&expirationTimestamp=1694613600000&signature=HeYjeM3-MajyzU_S2ZHc41CAVeFptVs_pp3jVhk6GWU&downloadName=Te%CC%80cnic-+PRETUS_2.pdf)
+[Read more](https://file.notion.so/f/f/4c4ef526-3c83-41c0-ba86-99713d22ae63/3989f0ca-5081-4b76-9006-5f306a357b4b/Tecnic-_PRETUS_2.pdf?id=26f72f9d-63e0-48b3-ab2a-972277086b35&table=block&spaceId=4c4ef526-3c83-41c0-ba86-99713d22ae63&expirationTimestamp=1695117600000&signature=sMtIPQloP6S4k1s6fsx9jlwPb3YB49HMRzE9PSiWuXc&downloadName=Te%CC%80cnic-+PRETUS_2.pdf)
 <br>
 
 ### Predoctoral positions
